@@ -22,8 +22,8 @@ I'm a passionate developer with a love for creating beautiful and functional web
 
 Feel free to reach out to me through:
 - Email: contact@example.com
-- LinkedIn: [@yourhandle](https://www.linkedin.com/in/rakshit-pujari-5b4109151/)
-- GitHub: [yourprofile](https://github.com/rakshit1996)
+- LinkedIn: [@RakshitPujari](https://www.linkedin.com/in/rakshit-pujari-5b4109151/)
+- GitHub: [Rakshit](https://github.com/rakshit1996)
 
 ---
 
