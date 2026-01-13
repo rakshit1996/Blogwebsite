@@ -1,6 +1,6 @@
 ---
 layout: post.njk
-title: Art and science of manging "Data as a Product"
+title: Art and science of manging "Data as a Product" in modern distributed SAP world 
 date: 2026-01-12
 description: Introduction to Data Products
 tags:
