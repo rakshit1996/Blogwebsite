@@ -48,10 +48,9 @@ Instead of one central team governing all enterprise data, Data Mesh empowers do
 
 ## Data as a Product: Bridging Technology and Mindset
 
-At the heart of Data Mesh lies the philosophy of Data as a Product (DaaP).
-This approach borrows from traditional product design principles:
-clear ownership and accountibility 
-Focus on consumer expirience 
+At the heart of Data Mesh lies the philosophy of Data as a Product (DaaP).This approach borrows from traditional product design principles:
+- clear ownership and accountibility 
+- Focus on consumer expirience 
 
 Under this principle, a data product is a well-defined, discoverable, and governed data asset, exposed through stable contracts such as APIs or events, and described with rich metadata. It is not just a table; it is a complete package
 
