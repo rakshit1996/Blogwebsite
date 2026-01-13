@@ -2,7 +2,7 @@
 layout: post.njk
 title: Art and science of manging "Data as a Product"
 date: 2026-01-12
-description: Paradigm shift in sharing data
+description: Paradigm shift in sharing data sharing
 tags:
   - blog
   - SAP Data Products
